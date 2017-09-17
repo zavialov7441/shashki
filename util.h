@@ -1,4 +1,3 @@
-//автор(с): Кудуштеев Алексей
 #if ! defined(_RUSSIAN_CHECKERS_KUDUSHTEEV_H_)
 #define _RUSSIAN_CHECKERS_KUDUSHTEEV_H_
 #if defined(_MSC_VER) && (_MSC_VER > 1000)

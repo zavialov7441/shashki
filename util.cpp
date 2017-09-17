@@ -1,4 +1,3 @@
-//автор(с): Кудуштеев Алексей
 #include "window.h"
 #include "util.h"
 #define CHK_YES    0

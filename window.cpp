@@ -1,4 +1,3 @@
-//автор(с): Кудуштеев Алексей
 #include "window.h"
 #define CHK_TIMER_ID   777
 
