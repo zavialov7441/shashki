@@ -120,7 +120,7 @@ HWND g_createWindow(HINSTANCE hInst, int size, LPCTSTR caption, LPCTSTR cname, U
 	setCheck(MENU_FIELD_MIN, TRUE);
 
 	menu = addMenu(g_menu, TEXT("Автор"));
-	addMenuItem(menu, TEXT("автор(с): Кудуштеев Алексей"), MENU_AUTHOR);
+	addMenuItem(menu, TEXT("Завьялов & Юшкевич"), MENU_AUTHOR);
 
 	DrawMenuBar(hwnd);
 

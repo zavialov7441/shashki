@@ -1,5 +1,5 @@
-#if ! defined(_WINDOW_KUDUSHTEEV_H_)
-#define _WINDOW_KUDUSHTEEV_H_
+#if ! defined(_WINDOW_ZU_H_)
+#define _WINDOW_ZU_H_
 #if defined(_MSC_VER) && (_MSC_VER > 1000)
 #pragma once
 #endif
